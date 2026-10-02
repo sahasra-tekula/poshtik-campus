@@ -1,0 +1,1 @@
+Copy the official Lab 3 image files into this folder.
